@@ -1,0 +1,12 @@
+{
+  "$schema": "../schemas/profile.schema.json",
+  "github": "Chloe8avocado",
+  "displayName": "金魚",
+  "tagline": "INFP",
+  "interests": ["資安", "密碼學"],
+  "faction": {
+    "os": "windows",
+    "browser": "chrome",
+    "editor": "vscode"
+  }
+}

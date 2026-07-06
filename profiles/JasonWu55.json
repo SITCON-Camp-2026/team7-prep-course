@@ -1,0 +1,12 @@
+{
+  "$schema": "../schemas/profile.schema.json",
+  "github": "JasonWu55",
+  "displayName": "鯨魚",
+  "tagline": "大家好我是鯨魚，興趣是鞭策我的 Claude Code",
+  "interests": ["Coding"],
+  "faction": {
+    "os": "windows",
+    "browser": "edge",
+    "editor": "vscode"
+  }
+}
