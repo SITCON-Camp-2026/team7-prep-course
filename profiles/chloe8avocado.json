@@ -1,9 +1,9 @@
 {
   "$schema": "../schemas/profile.schema.json",
-  "github": "Chloe8avocado",
+  "github": "chloe8avocado",
   "displayName": "金魚",
-  "tagline": "INFP",
-  "interests": ["資安", "密碼學"],
+  "tagline": "喜歡前後端與密碼學",
+  "interests": ["前後端", "密碼學"],
   "faction": {
     "os": "windows",
     "browser": "chrome",
