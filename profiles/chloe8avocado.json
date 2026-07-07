@@ -2,8 +2,11 @@
   "$schema": "../schemas/profile.schema.json",
   "github": "chloe8avocado",
   "displayName": "金魚",
-  "tagline": "喜歡前後端與密碼學",
-  "interests": ["前後端", "密碼學"],
+  "tagline": "INFP | 前端工程師 | 密碼學愛好者",
+  "interests": [
+    "前後端",
+    "密碼學"
+  ],
   "faction": {
     "os": "windows",
     "browser": "chrome",
