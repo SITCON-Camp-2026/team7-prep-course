@@ -1,0 +1,12 @@
+{
+  "$schema": "../schemas/profile.schema.json",
+  "github": "Seven-tails",
+  "displayName": "七尾狐",
+  "tagline": "一個愛玩電腦的狐狸",
+  "interests": ["遊戲開發"],
+  "faction": {
+    "os": "windows",
+    "browser": "edge",
+    "editor": "vscode"
+  }
+}
