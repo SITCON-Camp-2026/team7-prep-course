@@ -1,0 +1,14 @@
+{
+    "$schema": "../schemas/profile.schema.json",
+    "github": "lion1011231",
+    "displayName": "小獅",
+    "tagline": "小獅好可愛",
+    "interests": [
+        "scratch"
+    ],
+    "faction": {
+        "os": "windows",
+        "browser": "chrome",
+        "editor": "other"
+    }
+}
