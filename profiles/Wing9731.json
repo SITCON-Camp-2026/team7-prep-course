@@ -1,0 +1,12 @@
+{
+  "$schema": "../schemas/profile.schema.json",
+  "github": "Wing9731",
+  "displayName": "小予",
+  "tagline": "愛打瓦彈吉他",
+  "interests": ["遊戲開發"],
+  "faction": {
+    "os": "windows",
+    "browser": "chrome",
+    "editor": "vscode"
+  }
+}
