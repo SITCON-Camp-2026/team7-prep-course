@@ -1,0 +1,12 @@
+{
+  "$schema": "../schemas/profile.schema.json",
+  "github": "king981022-design",
+  "displayName": "鍾佳遑",
+  "tagline": "玩egg",
+  "interests": ["開發應用程式"],
+  "faction": {
+    "os": "windows",
+    "browser": "chrome",
+    "editor": "vscode"
+  }
+}
