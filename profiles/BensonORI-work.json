@@ -1,0 +1,14 @@
+{
+  "$schema": "../schemas/profile.schema.json",
+  "github": "BensonORI-work",
+  "displayName": "BensonORI",
+  "tagline": "我是神人",
+  "interests": [
+    "操作系統"
+  ],
+  "faction": {
+    "os": "linux",
+    "browser": "other",
+    "editor": "vim"
+  }
+}
